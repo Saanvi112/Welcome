@@ -2,6 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="C:\Users\SONAL\AndroidStudioProjects\MCA4PROJECT\Welcome\smartcollege" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/smartcollege" vcs="Git" />
   </component>
 </project>
