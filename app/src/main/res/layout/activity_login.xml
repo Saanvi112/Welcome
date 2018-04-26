@@ -45,6 +45,7 @@
                 android:background="@drawable/buttonstyle"/>
 
             <Button
+                android:onClick="ShowPopup"
                 android:layout_width="125dp"
                 android:layout_height="wrap_content"
                 android:layout_marginRight="40dp"
@@ -61,6 +62,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
+
         <EditText
             android:drawablePadding="10dp"
             android:drawableLeft="@drawable/ic_person_outline_black_24dp"
@@ -75,6 +77,26 @@
             android:layout_height="wrap_content"
             android:hint="PASSWORD"
             android:inputType="textPassword"/>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30dp"
+        android:drawableLeft="@drawable/ic_account_balance_black_24dp"/>
+<Spinner
+    android:layout_width="320dp"
+    android:layout_height="wrap_content"
+    android:id="@+id/spinnerroll"
+    android:layout_marginTop="10dp"
+    android:layout_marginLeft="10dp"
+    android:autofillHints="SELECTROLE">
+
+</Spinner>
+</LinearLayout>
 
         <Button
             android:drawableRight="@drawable/ic_send_black_24dp"

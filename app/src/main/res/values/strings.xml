@@ -29,5 +29,19 @@
     <string name="title_home">Home</string>
     <string name="title_notifications">Notifications</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="teacher_profile">Teacher-Profile</string>
+    <string name="get_in_touch_with_your_teacher">Get In Touch with Your Teacher</string>
+    <string name="syllabus">Syllabus</string>
+
+    <string name="attendence">Attendence</string>
+    <string name="_75_is_madatory">75% is madatory</string>
+    <string name="notes">Notes</string>
+    <string name="semester_notes">Semester Notes</string>
+    <string name="notice">notice</string>
+    <string name="always_check_this">check</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="title_activity_use">UseActivity</string>
 
 </resources>

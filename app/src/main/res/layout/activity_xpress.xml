@@ -20,7 +20,7 @@
         android:layout_height="match_parent"
         android:layout_gravity="start"
         android:fitsSystemWindows="true"
-        android:background="@color/blue"
+        android:background="@color/darkpink"
         app:headerLayout="@layout/nav_header_xpress"
         app:menu="@menu/activity_xpress_drawer" />
 
